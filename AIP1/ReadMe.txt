@@ -1,0 +1,1 @@
+for changing content of problem and for input new problem, you can change input.txt file.
